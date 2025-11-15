@@ -73,3 +73,36 @@ Verified through hidden pages:
 - **UPnP:** Not available → router returns 404 (safe)  
 
 Checked manually using:
+Both returned **404 Not Found**, confirming that dangerous features are disabled.
+
+---
+
+### ✅ 6. **Limited Maximum Wi-Fi Clients**
+- Default: **32 devices**  
+- Updated to: **10 devices**  
+
+Benefits:
+- Prevents unauthorized users from connecting  
+- Reduces network congestion  
+- Helps detect unknown devices more easily  
+
+---
+
+### ✅ 7. **Adjusted Transmit Power**
+- Reduced from maximum → **80%**  
+- Minimizes Wi-Fi signal leakage outside the home  
+- Helps reduce wireless attack surface  
+
+---
+
+### 🟢 8. **Additional Monitoring & Analysis**
+- Checked SSID Information  
+- Reviewed Device Information (WLAN/LAN status, packet counters)  
+- Analyzed basic traffic (ARP, DHCP broadcast)  
+- Observed network stability and packet errors  
+
+---
+
+## 📁 Recommended Repository Structure
+
+
