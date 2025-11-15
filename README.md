@@ -168,8 +168,5 @@ By performing hands-on analysis, hardening, and documentation, this project refl
 
 
 
----
-
-## 📁 Recommended Repository Structure
 
 
