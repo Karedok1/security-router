@@ -1,13 +1,13 @@
-# security-router
-# 🛡️ Home Router Security Audit & Hardening  
-**Project Type:** Cybersecurity / Network Security  
-**Device:** ZTE F663NV3a (ISP Firmware)  
-**Status:** Completed  
-**Author:** (Your Name)
+ security-router
+ 🛡️ Home Router Security Audit & Hardening  
+Project Type:Cybersecurity / Network Security  
+Device: ZTE F663NV3a (ISP Firmware)  
+Status: Completed  
+
 
 ---
 
-## 📌 Overview
+Overview
 This project documents a full security audit and hardening process performed on a home router after encountering a real connection error on a Windows laptop.  
 The issue led to a deeper investigation into the router’s configuration, revealing several common security weaknesses found in ISP-provided routers.
 
@@ -19,9 +19,9 @@ The goal of this project:
 
 ---
 
-## 🔍 Background
+Background
 The audit began with a simple problem:  
-**Windows reported an “unencrypted DNS” status and failed to connect to Wi-Fi.**
+Windows reported an “unencrypted DNS” status and failed to connect to Wi-Fi.
 
 This triggered a step-by-step investigation that uncovered:
 - Weak default router configurations left by the ISP  
@@ -88,14 +88,14 @@ Benefits:
 
 ---
 
-### ✅ 7. **Adjusted Transmit Power**
-- Reduced from maximum → **80%**  
+7. Adjusted Transmit Power
+- Reduced from maximum → 80% 
 - Minimizes Wi-Fi signal leakage outside the home  
 - Helps reduce wireless attack surface  
 
 ---
 
-### 🟢 8. **Additional Monitoring & Analysis**
+8. Additional Monitoring & Analysis
 - Checked SSID Information  
 - Reviewed Device Information (WLAN/LAN status, packet counters)  
 - Analyzed basic traffic (ARP, DHCP broadcast)  
@@ -125,14 +125,14 @@ Benefits:
 - Firewall OFF → **HIGH enabled**  
 - Unlimited Wi-Fi clients → **limited**  
 - Overpowered transmission → **optimized**  
-- WPS/UPnP → **disabled / inaccessible**  
+- WPS/UPnP → **disabled / inaccessible*
 - No unknown devices detected  
 
 This router is now significantly more secure than standard ISP installations.
 
 ---
 
-## 🧠 Lessons Learned
+🧠 Lessons Learned
 - A small technical issue can lead to deep cybersecurity learning.  
 - ISP routers often ship with unsafe default configurations.  
 - Security awareness is essential for all network users.  
@@ -141,7 +141,7 @@ This router is now significantly more secure than standard ISP installations.
 
 ---
 
-## 🎓 Skills Gained
+🎓 Skills Gained
 - Wireless security (WPA2, AES, WPS, UPnP)  
 - Router hardening techniques  
 - Basic network traffic analysis  
@@ -152,7 +152,7 @@ This router is now significantly more secure than standard ISP installations.
 
 ---
 
-## 📘 Attached Documentation
+📘 Attached Documentation
 A full PDF report is available in `/documentation/Router_Audit_Portfolio.pdf`.
 
 ---
