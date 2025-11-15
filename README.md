@@ -157,14 +157,6 @@ A full PDF report is available in `/documentation/Router_Audit_Portfolio.pdf`.
 
 ---
 
-## ⭐ Conclusion
-This project demonstrates practical skills in identifying and eliminating real security vulnerabilities in a live home network environment.  
-By performing hands-on analysis, hardening, and documentation, this project reflects strong foundational capability for roles in:
-
-- Network Security  
-- SOC Analyst (Tier 1)  
-- Cybersecurity Engineering  
-- IT Support / Network Technician  
 
 
 
