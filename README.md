@@ -100,6 +100,73 @@ Benefits:
 - Reviewed Device Information (WLAN/LAN status, packet counters)  
 - Analyzed basic traffic (ARP, DHCP broadcast)  
 - Observed network stability and packet errors  
+---
+
+## 🖼️ Included Screenshots (Suggested)
+
+| Screenshot | Status |
+|-----------|--------|
+| Router Login Page | ✔ |
+| WPA2 + AES Security Settings | ✔ |
+| Firewall set to HIGH | ✔ |
+| Admin Password Change Page | ✔ |
+| Maximum Clients = 10 | ✔ |
+| WPS/UPnP 404 Not Found | ✔ |
+| SSID Information Page | ✔ |
+| Transmit Power = 80% | ✔ |
+
+---
+
+## 🧪 Results & Security Improvements
+
+### All major vulnerabilities have been closed:
+- Default admin password → **secured**  
+- Mixed WPA mode / TKIP → **AES only**  
+- Firewall OFF → **HIGH enabled**  
+- Unlimited Wi-Fi clients → **limited**  
+- Overpowered transmission → **optimized**  
+- WPS/UPnP → **disabled / inaccessible**  
+- No unknown devices detected  
+
+This router is now significantly more secure than standard ISP installations.
+
+---
+
+## 🧠 Lessons Learned
+- A small technical issue can lead to deep cybersecurity learning.  
+- ISP routers often ship with unsafe default configurations.  
+- Security awareness is essential for all network users.  
+- Real-world auditing experience is extremely valuable for cybersecurity careers.  
+- Documentation and analysis make the project strong for a portfolio.
+
+---
+
+## 🎓 Skills Gained
+- Wireless security (WPA2, AES, WPS, UPnP)  
+- Router hardening techniques  
+- Basic network traffic analysis  
+- ARP, DHCP behavior understanding  
+- Firewall configuration  
+- Password entropy & security design  
+- Technical documentation skills  
+
+---
+
+## 📘 Attached Documentation
+A full PDF report is available in `/documentation/Router_Audit_Portfolio.pdf`.
+
+---
+
+## ⭐ Conclusion
+This project demonstrates practical skills in identifying and eliminating real security vulnerabilities in a live home network environment.  
+By performing hands-on analysis, hardening, and documentation, this project reflects strong foundational capability for roles in:
+
+- Network Security  
+- SOC Analyst (Tier 1)  
+- Cybersecurity Engineering  
+- IT Support / Network Technician  
+
+
 
 ---
 
